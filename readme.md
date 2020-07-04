@@ -6,7 +6,7 @@
 
 ### Full spec:
 
-* *CPU* : Intel Core i5-5300U (base 1.6GHz, boost 3.6GHz, syntetic load stable 2.4GHz, cinebench 1200pts)
+* *CPU* : Intel Core i5-5300U
 
 * *RAM* : 8 GB 1600 MHz DDR3
 
@@ -16,14 +16,12 @@
 
 * *WIFI* : TP LINK ARCHER T2U AC600 NANO (Both 2.4ghz and 5ghz working)
   
-  ### ⛔️ what is not working:
+  ### ⛔️ Not working:
 1. Default Wi-Fi card, need to replace with a compatible one or use dongle.
 2. ComboJack only **audio working**, not microphone
 * ### Installation
   
   This EFI has been tested on Mac OS 10.15.5.
-
-Make sure to connect **USB keyboard and mouse** as PS2 is **NOT** supported (yet) during instalation.
 
 ### Post installation
 
