@@ -2,7 +2,7 @@
 
 ## Benchmark
 
-![Geekbench4](https://imgur.com/a/SUyco0C)
+![Geekbench](https://i.imgur.com/dry6D9y.png)
 
 ### Full spec:
 
